@@ -23,6 +23,6 @@ The assignment requires us to take the data from the UIC source and perform 5 st
 1. For Step2, 33 columns were chosen for Mean measurement and 33 columns for Standard Deviation measurement
 2. MeanFrequency and Angle measurements we not included in the above set. Only mean() and std() for all measurements were considered
 3. For Step 4, I assumed that this meant cleaning up the column names of the features. In order to make these column names more readable, "()" and "-" were replaced with "." and camel case notation (Ex. tBodyAcc.Mean.X)
-4. Since the format of the tidy data set was not specified, I've used a .txt format similar to the original data
+4. Since the format of the tidy data set was not specified, I've used a .txt format similar to the original data but the data is comma separated so one can rename the final output to csv and view as Excel data
 
 
